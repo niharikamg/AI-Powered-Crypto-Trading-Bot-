@@ -1,4 +1,3 @@
-```markdown
 # 🤖 AI-Powered Crypto Trading Bot
 
 ## 📌 Overview
@@ -96,7 +95,10 @@ POST /trade
 - 🤖 **AI Model Improvements (LSTM, Reinforcement Learning)**  
 - 💰 **Multi-Crypto Support for Trading**  
 
- 
+---
+
+💡 **Author:** [Your Name]  
+🔗 **GitHub:** [Your GitHub Link]  
+📧 **Contact:** [Your Email]  
 
 🚀 **Like this project? Star it on GitHub!** ⭐  
-```
